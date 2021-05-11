@@ -150,6 +150,7 @@ $INCLUDE dictionary.microsoft
 $INCLUDE dictionary.mikrotik
 $INCLUDE dictionary.motorola.wimax
 $INCLUDE dictionary.navini
+$INCLUDE dictionary.netelastic
 $INCLUDE dictionary.netscreen
 $INCLUDE dictionary.networkphysics
 $INCLUDE dictionary.nexans
