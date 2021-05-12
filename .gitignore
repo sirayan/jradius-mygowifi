@@ -1,0 +1,15 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+/core/target/
+/dictionary/target/
+/dictionary-min/target/
+/extended/target/
+/extras/target/
+/example/target/
+/apps/target/
+/client/target/
+/server/target/
