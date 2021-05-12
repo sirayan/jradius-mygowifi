@@ -6,13 +6,13 @@
         <version>9</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-    <groupId>net.jradius</groupId>
-    <artifactId>jradius</artifactId>
+    <groupId>com.github.sirayan.jradius-mygowifi</groupId>
+    <artifactId>jradius-mygowifi</artifactId>
     <packaging>pom</packaging>
     <name>${project.artifactId}-${project.version}</name>
     <version>1.1.6-SNAPSHOT</version>
-    <description>JRadius Client/Server Project</description>
-    <url>http://www.coova.org/JRadius</url>
+    <description>JRadius Client/Server Project. A modified jradius for mygowifi Project</description>
+    <url>https://github.com/sirayan/jradius-mygowifi</url>
 
     <developers>
         <developer>
@@ -23,6 +23,12 @@
                 <role>Developer</role>
             </roles>
             <timezone>GMT+1</timezone>
+        </developer>
+        <developer>
+            <name>Ryan Rosario</name>
+            <email>rrosario@yondu.com</email>
+            <organization>com.jradius.mygowifi</organization>
+            <organizationUrl>https://github.com/sirayan/jradius-mygowifi</organizationUrl>
         </developer>
     </developers>
 
@@ -39,9 +45,9 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/coova/jradius</url>
-        <connection>scm:git:git://github.com/coova/jradius.git</connection>
-        <developerConnection>scm:git:git@github.com:coova/jradius.git</developerConnection>
+        <connection>scm:git:git://github.com/sirayan/jradius-mygowifi.git</connection>
+        <developerConnection>scm:git:ssh://github.com:sirayan/jradius-mygowifi.git</developerConnection>
+        <url>https://github.com/sirayan/jradius-mygowifi/tree/master</url>
     </scm>
 
     <distributionManagement>
