@@ -6,7 +6,7 @@
         <version>9</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
-    <groupId>com.github.sirayan.jradius-mygowifi</groupId>
+    <groupId>io.github.sirayan.jradius-mygowifi</groupId>
     <artifactId>jradius-mygowifi</artifactId>
     <packaging>pom</packaging>
     <name>${project.artifactId}-${project.version}</name>
@@ -27,7 +27,7 @@
         <developer>
             <name>Ryan Rosario</name>
             <email>rrosario@yondu.com</email>
-            <organization>com.jradius.mygowifi</organization>
+            <organization>io.github.sirayan.jradius-mygowifi</organization>
             <organizationUrl>https://github.com/sirayan/jradius-mygowifi</organizationUrl>
         </developer>
     </developers>
